@@ -14,3 +14,9 @@ https://github.com/Skelpdar/HEPAutoencoders
 If you use the material in this repository, you don't necessarily need to train the network as you will already find a ready-made network in the folder (but you can still use the scripts and train the available network if you want, and there are both training and testing datasets).
 
 Produce plots of the difference between original and uncompressed variables for each entry of the dataset, divided by the original variable. You can also add other plots (eg reconstruction loss).
+
+## Installation
+(Note: use anaconda)
+1) Install fastai, and all its dependencies: https://docs.fast.ai/install.html
+2) git clone fastai and keep it in the autoencoder folder.
+3) Install jupyter notebook. 
